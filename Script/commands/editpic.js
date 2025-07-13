@@ -5,7 +5,7 @@ const apiURL = "https://smfahim.xyz/gedit";
 module.exports.config = {
   name: "refine",
   version: "6.9",
-  credits: "API Fahim mode by Ullash ッ",
+  credits: "API Fahim mode by Rɪғᴀᴛ Aʜᴍᴇᴅ",
   countDown: 5,
   hasPermssion: 1,
   category: "AI",
