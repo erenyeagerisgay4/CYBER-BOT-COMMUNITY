@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "virgin",
 	version: "1.0.0",
 	hasPermssion: 0,
-	credits: "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️",
+	credits: "🦋𝐒𝐨𝐜𝐢𝐞𝐭𝐲 𝐎𝐟 𝐀𝐧𝐢𝐦𝐞 𝐋𝐨𝐯𝐞𝐫𝐬🎊🎭",
 	description: "Random picture of the most beautiful boy in Vietnam :))",
 	commandCategory: "Random-IMG",
 	usages: "virgin",
