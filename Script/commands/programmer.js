@@ -10,7 +10,7 @@ module.exports.config = {
  name: "programmer",
  version: "1.0.0",
  hasPermssion: 0,
- credits: "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️",
+ credits: "🦋𝐒𝐨𝐜𝐢𝐞𝐭𝐲 𝐎𝐟 𝐀𝐧𝐢𝐦𝐞 𝐋𝐨𝐯𝐞𝐫𝐬🎊🎭",
  description: "auto reply to salam",
  commandCategory: "noprefix",
  usages: "😎",
@@ -27,7 +27,7 @@ module.exports.handleEvent = async ({ api, event, Threads }) => {
  const body = content.toLowerCase();
  
  if (body.startsWith("programmer")) {
- const ullash = [
+ const 𝗥𝗶𝗳𝗮𝘁 𝗔𝗵𝗺𝗲𝗱 = [
  "╭•┄┅════❁🌺❁════┅┄•╮\n \n 🤡🤣🤣 \n\n╰•┄┅════❁🌺❁════┅┄•╯",
  "╭•┄┅════❁🌺❁════┅┄•╮\n\n programmer 🥵😎\n\n╰•┄┅════❁🌺❁════┅┄•╯"
  ];
